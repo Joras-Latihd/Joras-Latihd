@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student from Nepal with a passion for building practical web applications. Most of what I know came from actually building things — writing code, breaking it, fixing it, and understanding how real systems work along the way.
+I'm a Computer Science student from Nepal with a passion for building practical web applications. Most of what I know came from actually building things - writing code, breaking it, fixing it, and understanding how real systems work along the way.
 
 - 🎓 Studying **BSc. CSIT** at Quest International College, Nepal *(Pokhara University)*
 - 💼 Working as **Technical Administrator** at Himalayan Eco Ride Pvt. Ltd.
@@ -30,8 +30,6 @@ I'm a Computer Science student from Nepal with a passion for building practical 
 <div align="center">
 
 ### 👉 [saroj-portfolio-website.vercel.app](https://saroj-portfolio-website.vercel.app)
-
-*A collection of projects, skills, certifications, and blog posts — built with Next.js & React.*
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%23080c14?style=for-the-badge&logo=vercel&logoColor=61DAFB)](https://saroj-portfolio-website.vercel.app)
 &nbsp;
