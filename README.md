@@ -29,8 +29,6 @@ I'm a Computer Science student from Nepal with a passion for building practical 
 
 <div align="center">
 
-### 👉 [saroj-portfolio-website.vercel.app](https://saroj-portfolio-website.vercel.app)
-
 [![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%23080c14?style=for-the-badge&logo=vercel&logoColor=61DAFB)](https://saroj-portfolio-website.vercel.app)
 &nbsp;
 [![View Projects](https://img.shields.io/badge/View%20Projects-%23080c14?style=for-the-badge&logo=github&logoColor=white)](https://saroj-portfolio-website.vercel.app/projects)
