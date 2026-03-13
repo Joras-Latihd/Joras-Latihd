@@ -7,7 +7,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/📍 Location-Nepal-6366f1?style=flat-square&labelColor=080c14" alt="Location" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🎓 Student-BSc.%20CSIT-61DAFB?style=flat-square&labelColor=080c14" alt="Student" />
+  <img src="https://img.shields.io/badge/🎓 Student-%20BCSIT-61DAFB?style=flat-square&labelColor=080c14" alt="Student" />
 </div>
 
 ---
