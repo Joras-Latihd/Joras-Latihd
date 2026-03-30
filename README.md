@@ -12,19 +12,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a Computer Science student from Nepal with a passion for building practical web applications. Most of what I know came from actually building things - writing code, breaking it, fixing it, and understanding how real systems work along the way.
-
-- 🎓 Studying **BCSIT** at Quest International College, Nepal *(Pokhara University)*
-- 💼 Working as **Technical Administrator** at Himalayan Eco Ride Pvt. Ltd.
-- 🔨 Building with **React.js, Next.js, JavaScript, PHP & Java**
-- 🌱 Currently exploring **TypeScript, REST APIs & UI/UX Design**
-- 🎯 Goal: Build real-world projects and grow as a professional web developer
-- 📬 Reach me at **sarojdhital71@gmail.com**
-
----
-
 ## 🌐 Portfolio
 
 <div align="center">
