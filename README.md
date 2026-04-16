@@ -26,16 +26,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech | Links |
-|---|---|---|---|
-| **Football Quiz App** | 500 trivia questions, 3 difficulty modes, live timer, 8-tier rank system & leaderboard | React, JS, CSS | [Code](https://github.com/Joras-Latihd/Football_Quiz_App_Project) · [Live](https://saroj-football-quiz.vercel.app/) |
-| **React Calculator** | Clean calculator with state management, memory functions & calculation history | React, JS, CSS | [Code](https://github.com/Joras-Latihd/React_Calculator_Project) · [Live](https://react-calculator-project-saroj.vercel.app/) |
-| **GPA Calculator** | Add subjects, assign grades & credit hours, instant GPA calculation | JS, HTML, CSS | [Code](https://github.com/Joras-Latihd/GPA_Calculator_Project) · [Live](https://saroj-gpa-calculator.netlify.app/) |
-
----
-
 ## 🛠 Skills & Technologies
 
 <div align="center">
