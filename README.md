@@ -16,11 +16,11 @@
 
 <div align="center">
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%23080c14?style=for-the-badge&logo=vercel&logoColor=61DAFB)](https://saroj-portfolio-website.vercel.app)
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%23080c14?style=for-the-badge&logo=vercel&logoColor=61DAFB)](https://saroj-dhital.com.np)
 &nbsp;
-[![View Projects](https://img.shields.io/badge/View%20Projects-%23080c14?style=for-the-badge&logo=github&logoColor=white)](https://saroj-portfolio-website.vercel.app/projects)
+[![View Projects](https://img.shields.io/badge/View%20Projects-%23080c14?style=for-the-badge&logo=github&logoColor=white)](https://saroj-dhital.com.np/projects)
 &nbsp;
-[![Read Blog](https://img.shields.io/badge/Read%20Blog-%23080c14?style=for-the-badge&logo=hashnode&logoColor=2962FF)](https://saroj-portfolio-website.vercel.app/blog)
+[![Read Blog](https://img.shields.io/badge/Read%20Blog-%23080c14?style=for-the-badge&logo=hashnode&logoColor=2962FF)](https://saroj-dhital.com.np/blog)
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-080c14?style=for-the-badge&logo=vercel&logoColor=61DAFB)](https://saroj-portfolio-website.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-080c14?style=for-the-badge&logo=vercel&logoColor=61DAFB)](https://saroj-dhital.com.np)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarojdhital71/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarojdhital71@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joras-Latihd)
